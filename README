@@ -1,0 +1,12 @@
+captive is ultrasimple BBS software designed for wifi captive portals.
+
+PREREQUISITES:
+- mysql
+- php5
+
+INSTALLATION:
+- update config.php with your mysql settings
+- visit http://yoursite/setup.php
+
+ADMINISTRATION:
+- visit http://yoursite/admin.php

@@ -1,0 +1,35 @@
+body {
+	background-color: black;
+	color: white;
+	font-family: sans-serif;
+}
+.logo {
+	font-size: 64pt;
+	text-align: center;
+}
+.content {
+	width: 600px;
+	margin-left: auto;
+	margin-right: auto;
+}
+.post {
+	margin: 2px;
+	padding: 5px;
+	background-color: #303030;
+}
+.message {
+	color: #c0c0c0;
+}
+.author {
+	color: #000030;
+}
+textarea {
+	padding: 5px;
+	width: 100%;
+}
+input {
+	padding: 5px;
+}
+input[type="submit"] {
+	float: right;
+}
